@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/eai-rts/asec"
+	"github.com/eai-rts/asec/duration"
 )
 
 func main() {
-	fmt.Println(asec.DaysSince())
+	fmt.Println(duration.DaysSince())
 }

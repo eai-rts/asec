@@ -1,4 +1,4 @@
-package asec
+package duration
 
 import (
 	"time"
